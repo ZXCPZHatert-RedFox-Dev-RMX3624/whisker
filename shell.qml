@@ -1,3 +1,4 @@
+// Мой первый форк whisker
 //@ pragma Env QT_SCALE_FACTOR=1
 //@ pragma UseQApplication
 //@ pragma DefaultEnv QS_DROP_EXPENSIVE_FONTS=1
